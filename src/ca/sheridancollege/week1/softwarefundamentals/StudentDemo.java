@@ -15,8 +15,9 @@ public class StudentDemo
   private String name;
   private String program;
   private String course;
+  private String fetch_merge;
   //adding comment while in PHUONG_MAI branch
-  
+  //let's learn about fetch and merge
   /**
    * A constructor to pass in the given ID and then name
    * @param givenID - the ID to assign
